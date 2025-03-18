@@ -1,0 +1,11 @@
+{
+"entities": ["Wallachia", "Caledor", "Pale City", "Blood Sweat", "Darkwood", "RDWH", "Dreaming Woods", "Khorne Dogs", 
+            "Squeaky Peekers", "Lords Or The Edge", "Jersey Giants", "Orchestrated Death", "Reikland", "Red Shirts", 
+            "MuckNuggets", "Da Grot Grabbuz"],
+"existing_pairings": [["Squeaky Peekers", "Red Shirts"], ["Reikland", "Wallachia"], ["Lords Or The Edge", "Jersey Giants"],
+                              ["Darkwood", "Pale City"], ["Caledor", "Blood Sweat"], ["Khorne Dogs", "Orchestrated Death"], 
+                              ["Dreaming Woods", "MuckNuggets"], ["RDWH", "Reikland"], ["Red Shirts", "Lords Or The Edge"], 
+                              ["Wallachia", "Darkwood"], ["Jersey Giants", "Caledor"], ["Pale City", "Khorne Dogs"], 
+                              ["Blood Sweat", "Dreaming Woods"], ["MuckNuggets", "Orchestrated Death"], ["Da Grot Grabbuz", "RDWH"], 
+                              ["Squeaky Peekers", "Da Grot Grabbuz"]]
+}
