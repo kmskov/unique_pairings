@@ -2,9 +2,9 @@ import json
 import itertools
 import random
 
-def generate_new_pairings(entities, existing_pairings):
+def generate_new_pairings(entities, all_existing_pairings):
     all_possible_pairings = set(itertools.combinations(entities, 2))
-    available_pairings = list(all_possible_pairings - existing_pairings)
+    available_pairings = list(all_possible_pairings - all_existing_pairings)
     random.shuffle(available_pairings)
     
     used_entities = set()
@@ -32,12 +32,19 @@ def main():
     
     entities = data.get("entities", [])
     existing_pairings = set(tuple(sorted(pair)) for pair in data.get("existing_pairings", []))
-    
     validate_pairings(entities, existing_pairings)
-    new_pairings = generate_new_pairings(entities, existing_pairings)
+    
+    reversed_existing_pairings = set()
+    for pair in existing_pairings:
+      reversedPair = (pair[1], pair[0])
+      reversed_existing_pairings.add(reversedPair)
+
+    all_existing_pairings = existing_pairings.union(reversed_existing_pairings)
+    
+    new_pairings = generate_new_pairings(entities, all_existing_pairings)
     
     result = {"new_pairings": new_pairings}
-
+    
     with open("output.json", "w") as file:
         json.dump(result, file)
 

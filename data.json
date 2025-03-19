@@ -1,11 +1,16 @@
 {
-"entities": ["Wallachia", "Caledor", "Pale City", "Blood Sweat", "Darkwood", "RDWH", "Dreaming Woods", "Khorne Dogs", 
-            "Squeaky Peekers", "Lords Or The Edge", "Jersey Giants", "Orchestrated Death", "Reikland", "Red Shirts", 
+"entities": ["Wallachia", "Caledor", "Pale City", "Blood Sweat", "Darkwood", "RDWH", "Dreaming Woods", "Khorne Dogs",
+            "Squeaky Peekers", "Lords Or The Edge", "Jersey Giants", "Orchestrated Death", "Reikland", "Red Shirts",
             "MuckNuggets", "Da Grot Grabbuz"],
 "existing_pairings": [["Squeaky Peekers", "Red Shirts"], ["Reikland", "Wallachia"], ["Lords Or The Edge", "Jersey Giants"],
-                              ["Darkwood", "Pale City"], ["Caledor", "Blood Sweat"], ["Khorne Dogs", "Orchestrated Death"], 
-                              ["Dreaming Woods", "MuckNuggets"], ["RDWH", "Reikland"], ["Red Shirts", "Lords Or The Edge"], 
-                              ["Wallachia", "Darkwood"], ["Jersey Giants", "Caledor"], ["Pale City", "Khorne Dogs"], 
-                              ["Blood Sweat", "Dreaming Woods"], ["MuckNuggets", "Orchestrated Death"], ["Da Grot Grabbuz", "RDWH"], 
-                              ["Squeaky Peekers", "Da Grot Grabbuz"]]
+                              ["Darkwood", "Pale City"], ["Caledor", "Blood Sweat"], ["Khorne Dogs", "Orchestrated Death"],
+                              ["Dreaming Woods", "MuckNuggets"], ["RDWH", "Reikland"], ["Red Shirts", "Lords Or The Edge"],
+                              ["Wallachia", "Darkwood"], ["Jersey Giants", "Caledor"], ["Pale City", "Khorne Dogs"],
+                              ["Blood Sweat", "Dreaming Woods"], ["MuckNuggets", "Orchestrated Death"], ["Da Grot Grabbuz", "RDWH"],
+                              ["Squeaky Peekers", "Da Grot Grabbuz"], ["RDWH", "Red Shirts"], ["Wallachia", "MuckNuggets"],
+                              ["Dreaming Woods", "Squeaky Peekers"], ["Darkwood", "Lords Or The Edge"], ["Blood Sweat", "Jersey Giants"],
+                              ["Khorne Dogs", "Da Grot Grabbuz"], ["Pale City", "Reikland"], ["Caledor", "Orchestrated Death"],
+                              ["Pale City", "Squeaky Peekers"], ["Red Shirts", "Da Grot Grabbuz"], ["Wallachia", "RDWH"],
+                              ["Darkwood", "Dreaming Woods"], ["Lords Or The Edge", "Reikland"], ["Blood Sweat", "Khorne Dogs"],
+                              ["Caledor", "MuckNuggets"], ["Jersey Giants", "Orchestrated Death"]]
 }
