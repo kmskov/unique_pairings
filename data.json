@@ -12,5 +12,10 @@
                               ["Khorne Dogs", "Da Grot Grabbuz"], ["Pale City", "Reikland"], ["Caledor", "Orchestrated Death"],
                               ["Pale City", "Squeaky Peekers"], ["Red Shirts", "Da Grot Grabbuz"], ["Wallachia", "RDWH"],
                               ["Darkwood", "Dreaming Woods"], ["Lords Or The Edge", "Reikland"], ["Blood Sweat", "Khorne Dogs"],
-                              ["Caledor", "MuckNuggets"], ["Jersey Giants", "Orchestrated Death"]]
+                              ["Caledor", "MuckNuggets"], ["Jersey Giants", "Orchestrated Death"], ["Squeaky Peekers", "MuckNuggets"],
+                              ["Darkwood", "Orchestrated Death"], ["Pale City", "RDWH"], ["Caledor", "Dreaming Woods"],
+                              ["Jersey Giants", "Red Shirts"], ["Wallachia", "Blood Sweat"], ["Khorne Dogs", "Lords Or The Edge"],
+                              ["Reikland", "Da Grot Grabbuz"], ["Wallachia", "Lords Or The Edge"], ["Blood Sweat", "Da Grot Grabbuz"],
+                              ["Reikland", "Red Shirts"], ["Caledor", "RDWH"], ["Khorne Dogs", "Jersey Giants"], ["Darkwood", "Squeaky Peekers"],
+                              ["Dreaming Woods", "Orchestrated Death"], ["Pale City", "MuckNuggets"]]
 }
